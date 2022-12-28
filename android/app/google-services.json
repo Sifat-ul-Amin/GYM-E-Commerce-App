@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "628487914730",
+    "project_id": "gym-e-commerece",
+    "storage_bucket": "gym-e-commerece.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628487914730:android:f6eb36ad91bcdd4c820393",
+        "android_client_info": {
+          "package_name": "com.example.gym_ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628487914730-oo5fsnna3fs658lnr0bi9fi70sckit7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gym_ecommerce_app",
+            "certificate_hash": "47c9029791f09909d7d9e650f39fefe50f3928dd"
+          }
+        },
+        {
+          "client_id": "628487914730-pa3u5kslj45vfru6fn4eo81senmtqegt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOHKzPjvFYhCyKzPkQWchpxQZQCPmSPFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628487914730-pa3u5kslj45vfru6fn4eo81senmtqegt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
