@@ -8,7 +8,11 @@ Implementations -
 * its an ongoing project so you can except all the best things here. 
 
 
+I am a fitness enthusiast with a deep understanding of the workings of the fitness industry. My passion lies in making a positive impact in the fitness e-commerce sector, and I am currently working on building an ecommerce app that provides a seamless and enjoyable experience for customers.
 
+I possess a unique combination of technical and fitness expertise, which I leverage to create innovative solutions that benefit both fitness enthusiasts and industry players alike. With a keen eye for detail and a relentless work ethic, I am focused on revolutionizing the e-commerce sector of the fitness industry.
+
+I understand the importance of delivering quality products and experiences that meet the expectations of customers. My ecommerce app aims to provide a user-friendly interface, quick navigation, and hassle-free ordering and delivery, all of which contribute to a seamless experience for the customers. I know that a positive customer experience is crucial for success in the e-commerce sector, and I am committed to delivering just that.
 
 ![2023-04-16 (1)](https://user-images.githubusercontent.com/75949643/232393457-6fe9566e-58d7-4f5f-83a1-c6077b168d47.png)
 
