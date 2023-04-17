@@ -5,7 +5,7 @@ Implementations -
 * Implementation of firestore database. 
 * Splash Screen with circular indicator. 
 * Carousel Slider with dynamic image fetching from firestore. 
-* its an ongoing project so you can all the best things here. 
+* its an ongoing project so you can except all the best things here. 
 
 
 
