@@ -1,19 +1,15 @@
 # gym_ecommerce_app
+Implementations -
+* Firebase authentication. 
+* Best practices to make a user form (UI/UX).
+* Implementation of firestore database. 
+* Splash Screen with circular indicator. 
+* Carousel Slider with dynamic image fetching from firestore. 
+* its an ongoing project so you can all the best things here. 
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 ![2023-04-16 (1)](https://user-images.githubusercontent.com/75949643/232393457-6fe9566e-58d7-4f5f-83a1-c6077b168d47.png)
 
 ![2023-04-16 (3)](https://user-images.githubusercontent.com/75949643/232398879-d99a8dc9-3db9-4216-af70-ce4cabbc5896.png)
